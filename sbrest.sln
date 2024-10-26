@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sbrest", "sbrest\sbrest.csproj", "{59663B6B-F61C-4BCF-8A6D-C2D740308C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sbrest.test", "sbrest.test\sbrest.test.csproj", "{CDED8B63-6DD3-484E-8C48-B9013EA1B49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59663B6B-F61C-4BCF-8A6D-C2D740308C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59663B6B-F61C-4BCF-8A6D-C2D740308C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59663B6B-F61C-4BCF-8A6D-C2D740308C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59663B6B-F61C-4BCF-8A6D-C2D740308C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDED8B63-6DD3-484E-8C48-B9013EA1B49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDED8B63-6DD3-484E-8C48-B9013EA1B49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDED8B63-6DD3-484E-8C48-B9013EA1B49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDED8B63-6DD3-484E-8C48-B9013EA1B49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EDB30A6-9DCD-4567-A8A7-3BDC39384059}
+	EndGlobalSection
+EndGlobal
